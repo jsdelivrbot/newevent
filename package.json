@@ -1,0 +1,25 @@
+{
+  "name": "eventapp",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.10.3"
+  },
+  "description": "for event app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myjhon4/eventapp.git"
+  },
+  "keywords": [
+    "eventapp"
+  ],
+  "author": "Vinod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myjhon4/eventapp/issues"
+  },
+  "homepage": "https://github.com/myjhon4/eventapp#readme"
+}
